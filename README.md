@@ -59,7 +59,7 @@ The **Book-Crossings dataset** is already included in the Colab notebook.
 2. **Matrix Creation**
    ```python
    matrix = ratings.pivot_table(index='Book-Title', columns='User-ID', values='Book-Rating').fillna(0)
-   ---
+---
 
 ## 👩‍💻 Author
 
@@ -70,4 +70,3 @@ The **Book-Crossings dataset** is already included in the Colab notebook.
 
 ---
 ⭐ Don’t forget to give this repository a star if you found it helpful!
-
