@@ -1,5 +1,4 @@
-<!-- 🖼️ Banner -->
-![Book Recommender Banner](assets/book_recommender_banner.png)
+
 
 # 📚 Book Recommendation Engine using KNN
 
